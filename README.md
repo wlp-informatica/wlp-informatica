@@ -2,6 +2,8 @@
 
 Atuo atualmente com manutenção, configuração e suporte técnico em computadores, buscando sempre oferecer soluções práticas e eficientes.
 
+![Estudante](https://img.shields.io/badge/Estudante-Desenvolvimento_de_Sistemas-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)
+
 ## 🛠️ Tecnologias e ferramentas
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -10,8 +12,6 @@ Atuo atualmente com manutenção, configuração e suporte técnico em computado
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Node--RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Estudante](https://img.shields.io/badge/Estudante-Desenvolvimento_de_Sistemas-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ## 🌐 Onde me encontrar
 
