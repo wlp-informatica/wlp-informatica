@@ -16,9 +16,8 @@ Atuo atualmente com manutenção, configuração e suporte técnico em computado
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](#)
 [![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](#)
-[![Node--RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
+[![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)](#)
 ## 🌐 Onde me encontrar
 
 [![Website](https://img.shields.io/badge/Website-WLP.com.br-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.wlp.com.br)
